@@ -1,5 +1,4 @@
-# First-code
-Hello world
+
  #include <stdio.h>
 
 int main() {
